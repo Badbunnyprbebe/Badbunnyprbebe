@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Badbunnyprbebe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Soccer art and coding
+- 🌱 I’m currently learning art
+- 💞️ I’m looking to collaborate on art and coding
+- 📫 How to reach me 
+-
 
 <!---
 Badbunnyprbebe/Badbunnyprbebe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
